@@ -10,7 +10,7 @@ This is a simple currency converter web application built using React.js. It uti
 - Responsive design for various screen sizes
 
 ## Live Demo
-You can also access a live demo of this application [here](https://your-live-demo-url.com).
+You can also access a live demo of this application [here](https://currency-converter-react-by-bhanu.vercel.app/).
 
 ## Usage
 To use this application locally, follow these steps:
